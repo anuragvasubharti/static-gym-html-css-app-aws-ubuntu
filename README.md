@@ -8,7 +8,7 @@ No description provided.
 
 ## Technologies Used
 
-- **Stack:** AWS, CSS, HTML, Machine Learning, Shell
+- **Stack:** AWS, CSS, HTML, Machine Learning, Mermaid, Shell
 - **GitHub Topics:** None
 
 ## Architecture Overview
